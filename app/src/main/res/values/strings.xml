@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Patterns</string>
+    <string name="welcome">Welcome!</string>
+    <string name="fetch_gateway_message">Fetch Gateway Message</string>
+    <string name="loading">loading...</string>
+    <string name="loaded">loaded!</string>
+    <string name="reset">Reset</string>
+</resources>
